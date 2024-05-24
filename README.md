@@ -1,4 +1,4 @@
-# WISE_website
+# Women In Science & Engineering @YorkU
 
 The WISE website serves as a hub for resources, events, and networking opportunities for women in STEM at York University. 
 
